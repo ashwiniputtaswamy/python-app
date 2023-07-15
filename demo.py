@@ -11,3 +11,10 @@ print(lists1)
 
 lists[2]=50
 print(lists)
+
+
+lists[3]=30
+
+print(lists)
+
+print('ec2 connect with github')
