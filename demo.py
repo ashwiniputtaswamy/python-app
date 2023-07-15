@@ -8,3 +8,6 @@ print(lists)
 
 lists1=[60,70,80]
 print(lists1)
+
+lists[2]=50
+print(lists)
